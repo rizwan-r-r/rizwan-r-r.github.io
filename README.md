@@ -1,5 +1,5 @@
 
-# The Future Is Today [GitHub Pages](https://pages.github.com/)
+# The Future Today [GitHub Pages](https://pages.github.com/)
 
 [![CI](https://github.com/fast4x/RiMusic/actions/workflows/android.yml/badge.svg)](https://github.com/fast4x/RiMusic/actions/workflows/android.yml)
 
