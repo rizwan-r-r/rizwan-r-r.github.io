@@ -1,5 +1,6 @@
+The Future Today [GitHub Pages](https://pages.github.com/)
 
-# The Future Today [GitHub Pages](https://pages.github.com/)
+[![check-whitespace](https://github.com/git/git/actions/workflows/check-whitespace.yml/badge.svg)](https://github.com/git/git/actions/workflows/check-whitespace.yml)
 
 [![CI](https://github.com/fast4x/RiMusic/actions/workflows/android.yml/badge.svg)](https://github.com/fast4x/RiMusic/actions/workflows/android.yml)
 
