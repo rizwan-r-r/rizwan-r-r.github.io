@@ -8,3 +8,7 @@ The Future Today [GitHub Pages](https://pages.github.com/)
 
 
 This site was built using [GitHub Pages](https://pages.github.com/)
+
+![Auto Assign](https://github.com/F~RuHi/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
+![Proof HTML](https://github.com/F~RuHi/demo-repository/actions/workflows/proof-html.yml/badge.svg)
