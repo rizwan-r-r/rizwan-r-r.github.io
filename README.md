@@ -1,11 +1,8 @@
-# The Future Today 
-## [GitHub Pages](https://pages.github.com/)
+### The Future Today 
+### [GitHub Pages](https://pages.github.com/)
 
-[![](https://jitpack.io/v/termux/termux-app.svg)](https://jitpack.io/#termux/termux-app)
 
 [![check-whitespace](https://github.com/git/git/actions/workflows/check-whitespace.yml/badge.svg)](https://github.com/git/git/actions/workflows/check-whitespace.yml)
-
-[![CI](https://github.com/fast4x/RiMusic/actions/workflows/android.yml/badge.svg)](https://github.com/fast4x/RiMusic/actions/workflows/android.yml)
 
 [![Packages](https://github.com/termux/termux-packages/actions/workflows/packages.yml/badge.svg)](https://github.com/termux/termux-packages/actions/workflows/packages.yml)
 
